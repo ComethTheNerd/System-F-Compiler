@@ -10,7 +10,7 @@
 // 7. TAL - Idealised Assembly Language emission that can be computed by the VM to garner a result
 // 8. \Lambda H Virtual Machine that can interpret and compute \Lambda H intermediate language code
 // 9. TAL Virtual Machine that can interpret and compute Idealised Assembly Language
-// 10. Register Manager that fetches values from the heap, in to pseudo-registers adhoc during runtime
+// 10. Register Manager that fetches values from the heap, in to pseudo-registers adhoc during runtime 
 //
 // 	NOTE: Concepts/structures that are the same across phases will only be explained in comments the
 //	first time they are encountered in the code. This is to prevent cluttering the code with comments
